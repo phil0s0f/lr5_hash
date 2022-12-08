@@ -5,6 +5,16 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lr5_hash", "lr5_hash\lr5_hash.vcxproj", "{A483E4B7-C03D-4F1A-BC6C-3939CBBCD057}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{97F41706-9215-45D1-BF81-80AB963E4A9A}"
+	ProjectSection(SolutionItems) = preProject
+		h10.txt = h10.txt
+		h100.txt = h100.txt
+		h20.txt = h20.txt
+		h30.txt = h30.txt
+		h40.txt = h40.txt
+		h50.txt = h50.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64

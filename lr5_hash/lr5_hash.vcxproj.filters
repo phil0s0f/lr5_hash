@@ -13,33 +13,10 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="files">
-      <UniqueIdentifier>{6299c71f-15d8-4cf5-aa33-508429cc51f3}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="hash.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="C:\Users\user\lr5_hash\h10.txt">
-      <Filter>files</Filter>
-    </Text>
-    <Text Include="C:\Users\user\lr5_hash\h20.txt">
-      <Filter>files</Filter>
-    </Text>
-    <Text Include="C:\Users\user\lr5_hash\h30.txt">
-      <Filter>files</Filter>
-    </Text>
-    <Text Include="C:\Users\user\lr5_hash\h40.txt">
-      <Filter>files</Filter>
-    </Text>
-    <Text Include="C:\Users\user\lr5_hash\h50.txt">
-      <Filter>files</Filter>
-    </Text>
-    <Text Include="C:\Users\user\lr5_hash\h100.txt">
-      <Filter>files</Filter>
-    </Text>
   </ItemGroup>
 </Project>
